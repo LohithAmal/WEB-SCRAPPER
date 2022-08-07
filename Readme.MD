@@ -1,0 +1,4 @@
+- Node.js
+- Axios - is a promise based http client for the browser and node.js. axios essentially make easy to send http req. to REST and perform CRUD operations.
+- Express -backend frameword for node js..inorder to listen to a port
+- cheerio - to pick html element from a website...(check fo rmore details)
